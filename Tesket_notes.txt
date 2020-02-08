@@ -7,7 +7,6 @@ judicious use and abuse of magic over time has salted the earth, expanding the d
 was built where it was due to being on top of a large leyline
 	ley line also coincides with an actual fault line in the crust
 a large earthquake eventually split and nearly destroyed Tesket
-	THOUGHT:  Was it not always called Tesket?   maybe it was something else before the split??
 inhabitants are almost completely dependent on magic for everything
 	food, water, clothing, construction, defense, etc
 	"goods not made out of magic" is a small niche market that is not very large
@@ -25,28 +24,44 @@ EARTHQUAKE NOTES
 	results:
 		magical research has skyrocketed lately
 			thanks to greater access to the ley line
-	TODO:
-		What was the name of the catastrophe that split open the chasm>?
-		What is the name of the chasm?
+	information:
+		The catastrophe became known as "To Schisma" (toe sh-keez-ma), or 'The Schism'
+		The chasm is now known as "Tin Artiria", or 'The Artery'
+BATTLE AT THE RIFT NOTES
+	Some peasants attempted to get a leg up on the yearly exams
+	They smuggled mana from the leyline and stored it over a year
+	When the yearly exams came, they tried to use the mana to pass
+	They couldn't control the mana and their exam went completely haywire
+	Ended up opening a small rift to a daemonic plane
+	This rift rapidly expanded and Demons began flooding out
+	The Optimatoi were rapidly deployed to deal with the issue, resulting in a 3 day battle in the middle of the city
+	The Optimatoi finally managed to hold the rift long enough for the leadership to close it with a ritual
+	As a result, peasants are subject to a full magical scan whenever they leave mana harvesting areas
+		Any peasant can also be scanned at random in the streets, as well as having their possessions/domicile searched for signs of stored mana
 REVOLUTION NOTES
+	Known today as "Exegersi Tou Ilithios" (ex-eh-gur-see too ill-ith-ee-os), or 'The Imbecile's Revolt'
 	started by a group of people who wanted the city to be less entirely dependent on magic
+		Group was originally called "Mideniki Eleftheria" (mee-den-ee-key el-ef-there-ee-ah), or 'Null Liberty'
+			History books had it scrubbed from history
+			Only known to the small surviving revolutionary force remaining in the city
 		kind of a hybrid of eco-activism and magic-hate
 	Started small with just little protests
 	Eventually hit a critical mass and became militant
-	managed to do some serious damage to SOMETHING
-		TODO:  What major blow did the revolution strike that severely hampered the work of the people in charge of the city?
-			Idea: They let off a null-magic bomb in the artifact repository, rendering thousands of powerful ancient artifacts useless
-				Follow up:  The attempts to "renew" this artifact repository by the leaders of Tesket was the large magical influx that caused the earthquake possibly!
-				Note:  Was the null-magic bomb created by secret research of some creature(s) that live underground that have become immune to magic?
+	What major blow did the revolution strike that severely hampered the work of the people in charge of the city?
+		They let off a null-magic bomb in the artifact repository, rendering thousands of powerful ancient artifacts useless
+			Follow up:  The attempts to "renew" this artifact repository by the leaders of Tesket was the large magical influx that caused the earthquake possibly!
+			Note:  Was the null-magic bomb created by secret research of some creature(s) that live underground that have become immune to magic?
 	as a result, DRASTIC measures were taken by the rulers of the city, and the revolution was quashed rapidly with the use of magic for brutal purposes
-		TODO: What kinds of things did they do with magic that would be highly frowned upon or horrifying?
-	After the revolution was over, the enraged rulers ended up using magic to animate the corpses of the revolutionaries and used them for manual labor for a time
+	After the revolution was over, the enraged leaders ended up using magic to animate the corpses of the revolutionaries and used them for manual labor for a time
 		The leaders of the revolution have been defaced and encased forever in glass, and are on display somewhere in the city
 	The inhabitants of the city underwent a very thorough campaign of propaganda
-		they eventually came to be convinced as a city that the revolutionaries were scum, and they wanted nothing more than to destroy the entire city
+		Leader/Editor-in-Chief of Propaganda was "Eulalius Ducas"
+		the citizens eventually came to be convinced as a city that the revolutionaries were scum, and they wanted nothing more than to destroy the entire city
 	As of present day, the inhabitants all consider the actions taken back then to be fully justified, and there have been many warpings of historical events over time to make the revolutionaries seem far worse and more sinister than they actually were
-	TODO:  Come up with some turn of phrase or cultural colloquial that the city uses now that relates back to that group!  (Think Punics)
+		TODO: Come up with a couple of ideas of how these events warped over time!
+			Alternatively, come up with what the "modern known history" of the revolution is!
 	To this day a VERY small and EXTREMELY paranoid/secretive group still exists in/near the city that are the remainder/descendants of that revolution, who still want to further that cause
+		Still call themselves "Null Liberty"
 		They see what is happening to the city, especially after the chasm opened
 FOUNDING NOTES
 	FOUNDER:
@@ -65,72 +80,53 @@ FOUNDING NOTES
 	Mages traveled out to this person and found their own abilities sustained by the area, and helped to study and find out that it was a Ley Line
 	Eventually magic users started moving to the area for study and built homes/labs out there, and a small town grew from that
 		Mages worked together in the beginning to automate many "tedious" parts of their lives so she wouldn't be distracted from studies
-
-IDEAS FOR OTHER HISTORICAL EVENTS:
-	Have a tenuous/hostile/strained relationship with the Elves
-		TODO:  WHY?
-			Destroying the landscape?
-			Misuse of the leylines?
-			Elves supporting the eco-activists in Tesket?
-	Large change in some kingdom-wide policy?
-	Some large event back in the history of Tesket that resulted in the creation of a new race?
-		Possibilities:
-			Animal hybrids (Arrakoa, Ratmen, Frogmen, etc)
-			The Djanthi
-			Sentient Golems
-		Note:  Depending on the race, some kind of push for freedom for that race?
-			- Would this be the "policy change"?
-	Some part of the city that someone attempted to make a floating city ends up failing and crashing back down?
-		NOTE: It failed fairly quickly, causing massive destruction but not destroying the entire city!!
-		NOTE: This would have happened a while ago, way before the earthquake
-		IDEA:  Was this research done at the behest of the fallen kingdom??
-	Some kind of yearly exam in an academy where in one instance it went REALLY badly or had a mishap
-		Some peasants attempted to get a leg up on the yearly exams
-		They smuggled mana from the leyline and stored it over a year
-		When the yearly exams came, they tried to use the mana to pass
-		They couldn't control the mana and their exam went completely haywire
-		TODO:
-			What happened?
-			How did it get fixed?
-			What was the aftermath?
-	Early in Tesket's life, a nearby now-fallen kingdom laid claim to the land and tried to oust the mages and take control
-		The mages struck some faustian bargain with the kingdom in order to keep the land and continue studies
-		At some point that kingdom fell into ruin
-			TODO:  HOW?
-		Rumors that Tesket, as it grew, helped along the ruin of the other kingdom to "get out of their deal"
-		TODO:  Details about this bargain!
-		After kingdom "falls" Tesket is renamed to what it is today
-			TODO: Come up with what Tesket has been called in the past!
-
-
-
-
-
-OPEN QUESTIONS STILL:
-	POLITICAL
-		How do they interact with other nearby kingdoms?
-		What kind of government do they have?
-			What is their justice system like?
-	SOCIETAL
-		what is their culture like?
-			How do they feel about outsiders, or about the various races?
-			Are they willing to teach others magic?
-				Do they share magic with others at all?
-		What is their economy like?
-			Do they have a need for money if magic provides "everything"?
-				If they don't need money, how do they handle trading/selling goods, services, etc?
-				If they need money, what is the money?  What can they use that magic can't make?
-					Can't be precious metals, since those can be made with magic
-					Need to come up with something special that can't be made through magical means
-	HISTORICAL
-		What other major events have happened in their history?
-		How has the city's culture/intentions/goals changed over history?
-	MILITARY
-		Do they have a standing army?
-		Have they been in any wars (see: Historical)
-		How do they fight?
-			How does magic work in their warfare?
-			Do they fight with non-magic too?
+SATMATA AND THE FALL OF ANKION
+	Early in Tesket's life it was known as "Satmata
+	A nearby now-fallen kingdom named "Ankion" laid claim to the land and tried to oust the mages and take control
+	TODO:  How did the kingdom assert dominance over Satmata/Tesket?
+		IDEA:  Maybe the mages were not yet combatative and had no reasonable way to defend themselves
+			This might also have been the impetus for them to start developing weapons/defenses/military
+	The mages struck some bargain/alliance with Ankion in order to keep the land and continue studies
+		TODO:  Details about this
+	At some point Ankion fell into ruin
+		TODO:  How?  (wide overview -- DON'T get into details!)
+	Rumors that Tesket, as it grew, helped along the ruin of Ankion to "get out of their deal"
+	After Ankion "falls" Tesket is renamed to what it is today
+		Tesket used to be called "Satmata"
+CREATION OF NEW RACE
+	Possibilities:
+		Animal hybrids (Arrakoa, Ratmen, Frogmen, etc)
+		The Djanthi
+		Sentient Golems
+	TODO:  Depending on the race, some kind of push for freedom for that race?
+	TODO:  More details
+POLITICAL:
+	How do they interact with other nearby kingdoms?
+		Have a tenuous/hostile/strained relationship with the Elves
+			Destroying the landscape
+			Misuse of the leylines
+			Elves had given support to Null Liberty during what is now known as 'The Imbecile's Revolt'
+	What kind of government do they have?
+		What is their justice system like?
+SOCIETAL
+	what is their culture like?
+		How do they feel about outsiders, or about the various races?
+		Are they willing to teach others magic
+			They will teach magic to those who can pass the same yearly exam that anyone else in the city must
+			They require you to have been a peasant of Tesket for a minimum of 1 year before you can take the exam to prove yourself
+				Standing in home town/city/kingdom is of no relevance; any supplicants must spend time as peasants.
+	What is their economy like?
+		Do they have a need for money if magic provides "everything"?
+			If they don't need money, how do they handle trading/selling goods, services, etc?
+			If they need money, what is the money?  What can they use that magic can't make?
+				Can't be precious metals, since those can be made with magic
+				Need to come up with something special that can't be made through magical means
+MILITARY
+	Standing military force called "Optimatoi"
+	Have they been in any wars (see: Historical)
+	How do they fight?
+		How does magic work in their warfare?
+		Do they fight with non-magic too?
 
 
 
@@ -159,3 +155,5 @@ NOTES ABOUT CULTURE (IGNORE FOR NOW):
 		peasants must study in any free time they have in order to rise out of the rank
 		because you aren't forced to stay, most peasantry is very invested in this
 			COME UP WITH THOUGHTS ABOUT HOW THE PEASANT CULTURE REVOLVES AROUND THIS TEST
+	Sandstorms that happen in the desert now would be something that Tesket would attempt to block the city off of using magic
+		When one shows up, Mages that are meant to be "punished" will be put on "Sandblock" duty, being one of the participants in the ritual along the walls that helps put up protective measures against the storm to keep sand out
